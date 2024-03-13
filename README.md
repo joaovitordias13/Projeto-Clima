@@ -15,7 +15,7 @@ Este é um desafio desenvolvido durante o módulo de Java script do curso oferec
 <li>Após escolher o local e clicar em buscar, será apresentado diversas informações meteorológicas como a temperatura,a direção do vento e a velociade do vento.</li>
 
 # 🎨 Pré-visualização :
-## Apresentação da barra de pesquisa
+## Apresentação da barra de pesquisa :
 <img src="midia.readme/Clima.png" alt="">
 
 ## Informações meteorológicas :
